@@ -1,4 +1,4 @@
-# Tweeter_analysis
+# Tweeter Sentiment Analysis
 
 📺 In this Twitter Sentiment Analysis using Random Forest and a sleek Streamlit App. 🌐🌟
 
